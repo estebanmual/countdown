@@ -1,0 +1,24 @@
+.App {
+    text-align: center;
+    font-size: 35px;
+    margin-top: 20%;
+}
+
+.App__title {
+    font-size: 50px;
+}
+
+.Form {
+    display: flex;
+    justify-content: center;
+}
+
+.Form__input {
+    font-size: 25px;
+    margin: 5px;
+    width: 30%;
+}
+
+.Form__button {
+    margin: 5px;
+}
