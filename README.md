@@ -1,8 +1,28 @@
-https://wakatime.com/badge/user/be79098d-c59e-407c-8952-0f274bb9e265/project/5b558a79-fc2b-4b74-a648-f7ff2a9380af.svg
+![](https://wakatime.com/badge/user/be79098d-c59e-407c-8952-0f274bb9e265/project/5b558a79-fc2b-4b74-a648-f7ff2a9380af.svg)
 
 # Countdown
 
 > This is a countdown that calculates how much time is left until your date.
+
+## Built With
+
+- JavaScript
+- Css
+- Bootstrap
+- React
+
+## Live Demo
+
+[Live Demo Link](https://estebanmual.github.io/countdown/)
+
+## Authors
+
+👤 **Esteban Munoz**
+
+- GitHub: [@estebanmual](https://github.com/estebanmual)
+- Twitter: [@estebanmual](https://twitter.com/estebanmual)
+- Instagram: [@estebanmual](https://twitter.com/estebanmual)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/lestebanmual)
 
 ## Available Scripts
 
@@ -25,26 +45,6 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-## Built With
-
-- JavaScript
-- Css
-- Bootstrap
-- React
-
-## Live Demo
-
-[Live Demo Link](https://estebanmual.github.io/countdown/)
-
-## Authors
-
-👤 **Esteban Munoz**
-
-- GitHub: [@estebanmual](https://github.com/estebanmual)
-- Twitter: [@estebanmual](https://twitter.com/estebanmual)
-- Instagram: [@estebanmual](https://twitter.com/estebanmual)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/lestebanmual)
 
 ## 🤝 Contributing
 
